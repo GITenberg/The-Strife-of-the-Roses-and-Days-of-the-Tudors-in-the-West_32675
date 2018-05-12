@@ -1,0 +1,36 @@
+_repo: The-Strife-of-the-Roses-and-Days-of-the-Tudors-in-the-West_32675
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Gibbs, Roscoe
+    gutenberg_agent_id: '35452'
+    url: http://www.gutenberg.org/2009/agents/35452
+covers:
+- cover_type: archival
+  image_path: 32675-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rogers, W. H. Hamilton (William Henry Hamilton)
+    aliases:
+    - Rogers, William Henry Hamilton
+    - Hamilton Rogers, W. H. (William Henry)
+    birthdate: 1828
+    deathdate: 1913
+    gutenberg_agent_id: '35979'
+    url: http://www.gutenberg.org/2009/agents/35979
+description: ''
+gutenberg_issued: '2010-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32675'
+  lccn: '01012444'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Tudors, 1485-1603'
+- !lcsh 'Great Britain -- History -- Wars of the Roses, 1455-1485'
+- !lcc 'DA'
+title: The Strife of the Roses and Days of the Tudors in the West
+url: http://www.gutenberg.org/ebooks/32675
